@@ -6,7 +6,7 @@ replicaCount: 1
 
 image:
   repository: rinshad11/nodeapp00
-  tag: usage
+  tag: latest
   pullPolicy: IfNotPresent
 
 service:
