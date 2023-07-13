@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: tmforumorg/odl_sandbox
+  repository: rinshad11/nodeapp00
   tag: usage
   pullPolicy: IfNotPresent
 
