@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  registry: helmcr.azurecr.io
+  registry: registry001100.azurecr.io
   repository: rinshaddockernodejs
   tag: latest
   pullPolicy: IfNotPresent
