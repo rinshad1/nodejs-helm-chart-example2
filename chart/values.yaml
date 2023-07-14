@@ -5,8 +5,8 @@
 replicaCount: 1
 
 image:
-  ##registry: registry001100.azurecr.io
-  repository: rinshad11/nodeapp00    ###rinshaddockernodejs
+  registry: registry001100.azurecr.io
+  repository: rinshaddockernodejs    ###rinshad11/nodeapp00
   tag: latest
   pullPolicy: IfNotPresent
 
