@@ -6,8 +6,8 @@ replicaCount: 1
 
 image:
   repository: registry001100.azurecr.io/rinshaddockernodejs    ###rinshad11/nodeapp00
-  #tag: latest
-  pullPolicy: IfNotPresent
+  tag: latest
+  pullPolicy: Always
 
 service:
   type: ClusterIP
