@@ -6,7 +6,7 @@ replicaCount: 1
 
 image:
   repository: registry001100.azurecr.io/rinshaddockernodejs    ###rinshad11/nodeapp00
-  tag: latest
+  tag: 41
   pullPolicy: Always
 
 service:
